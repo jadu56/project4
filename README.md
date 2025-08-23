@@ -1,6 +1,6 @@
 # File Read, Write, and Append Program
 
-This is a simple Python program that demonstrates how to **write**, **append**, and **read** text from a file.
+This is a simple Python program that demo how to **write**, **append**, and **read** text from a file.
 
 ##Features
 - Takes user input and **writes** it to a new file (`text1.txt`).
